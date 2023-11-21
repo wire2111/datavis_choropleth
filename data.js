@@ -1,4 +1,4 @@
-export const COUNTIES = {
+export const TOPOLOGY = {
 	"type": "Topology",
 	"objects": {
 		"counties": {
